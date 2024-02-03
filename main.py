@@ -7,6 +7,7 @@ list_2 = [5, 3, 8, 1, 0, 4]
 # list_2 = [0]
 print(lab1.q2(list_2))
 
+
 matrix_1 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 m1 = 5
 print(lab1.q3(matrix_1, m1))
